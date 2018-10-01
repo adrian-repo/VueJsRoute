@@ -1,2 +1,21 @@
-# VueJsRoute
-This is a simple example of routing in Vue Js  Also, how to get and display data from a REST API like https://jsonplaceholder.typicode.com/users beautifully with Bootstrap ...
+# vue-js-route
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
